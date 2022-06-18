@@ -1,0 +1,57 @@
+h1 {
+    font-family: 'Varela Round', sans-serif;
+    color: #156711;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+    color: #156711;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    margin: 10px;
+    width: 200px;
+    padding: 5px;
+}
+
+input[type=radio] {
+   padding: 0;
+   margin: 10px;
+   width: 30px;
+}
+
+input[type=submit] {
+    width: 80px;
+    border-radius: 10px;
+}
+
+select {
+    margin: 10px;
+    width: 100px;
+    height: 30px;
+}
+
+.text-center {
+    height: 5rem;
+}
+
+
+.dogimages {
+    width: 450px;
+    height: 300px;
+    margin: 10px;
+}
+
+.btn-outline-success {
+    width: 50%;
+    height: 30%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
