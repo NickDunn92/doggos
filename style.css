@@ -41,6 +41,24 @@ select {
     height: 5rem;
 }
 
+.img-thumbnail-3 {
+    height: 235px;
+    width: 305px;
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid var(--bs-border-color);
+    border-radius: 0.375rem;
+}
+
+.img-thumbnail-4 {
+    height: 235px;
+    width: 305px;
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid var(--bs-border-color);
+    border-radius: 0.375rem;
+}
+
 .btn-outline-success {
     width: 50%;
     height: 30%;
