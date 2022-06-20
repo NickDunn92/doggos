@@ -41,17 +41,9 @@ select {
     height: 5rem;
 }
 
-
-.dogimages {
-    width: 450px;
-    height: 300px;
-    margin: 10px;
-}
-
 .btn-outline-success {
     width: 50%;
     height: 30%;
     margin-top: 10px;
     border-radius: 10px;
 }
-
