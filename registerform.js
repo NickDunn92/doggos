@@ -7,8 +7,9 @@ for (var i = 0; i < inputs.length; i++) {
   inputs[i].addEventListener("click", function() {
     console.log("Click!");
   });
-  inputs[i].addEventListener('input', function (evt) { 
-  something(this.value);
-});
+  inputs[i].addEventListener('input', function() { 
+    document.getElementById("inputText").value;
+    console.log("Hi!");
+  });
 };
 
